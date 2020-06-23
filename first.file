@@ -1,6 +1,13 @@
 1) first string
 2) second string
 
-// added locally
+// added locally by GUI
 3) third string
 4) fourth string
+
+// another two strings added locally by git bash
+// first command: git add first.file  // добавляем файл в commit
+// second command: git commit -m "adding another two strings"  // commit
+// third command: git push  // upload to github
+5) fifth string
+6) sixth string
